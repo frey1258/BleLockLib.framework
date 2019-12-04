@@ -1,0 +1,6 @@
+framework module BleLockLib {
+  umbrella header "BleLockLib.h"
+
+  export *
+  module * { export * }
+}
