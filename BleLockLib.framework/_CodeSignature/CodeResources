@@ -4,14 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		mbiUL9ouj5FO5EWrJPCLU88G7Wo=
-		</data>
-		<key>Headers/BleLockLib.h</key>
-		<data>
-		KKDdFd8t3yfPErrCdHLwsRdDvnU=
-		</data>
 		<key>Info.plist</key>
 		<data>
 		OT6pA2D3r3eHd2obcjZxFzDgvRI=
@@ -23,17 +15,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/BleLockLib.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			KKDdFd8t3yfPErrCdHLwsRdDvnU=
-			</data>
-			<key>hash2</key>
-			<data>
-			v1LQtGuPM7MZXwOEn2F7QFKhpdI9Cx6ByKZiu9krRAQ=
-			</data>
-		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
